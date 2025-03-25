@@ -27,7 +27,7 @@ El código está organizado por paquetes según los temas trabajados:
 
 ---
 
-## 📌 Requisitos
+### 📌 Requisitos
 
 - JDK 11 o superior.
 - Eclipse, IntelliJ o cualquier otro IDE que soporte Java.
