@@ -38,7 +38,6 @@ El código está organizado por paquetes según los temas trabajados:
 ## 📘 Recursos útiles
 
 - [Documentación oficial de Java](https://docs.oracle.com/en/java/)
-- [W3Schools Java Tutorial](https://www.w3schools.com/java/)
 - [Aprende Java desde cero (YouTube)](https://www.youtube.com/playlist?list=PLWtYZ2ejMVJlUu5lq2d3xE6Cs4t73zvPp)
 
 ---
